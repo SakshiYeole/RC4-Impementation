@@ -11,7 +11,7 @@ This Python program implements the RC4 cipher, a symmetric key stream cipher. RC
 
 2. **Run the Example:**
     ```bash
-    py rc4_cipher.py
+    py rc4cipher.py
     ```
 
 3. **Output:**
